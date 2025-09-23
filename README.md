@@ -1,15 +1,12 @@
-# 👨‍💻 README - Estudiante de ASIR
-
-## 📌 Sobre mí
+## ♦️ Sobre mí
 Hola 👋, soy **David**, estudiante de segundo curso de **Administración de Sistemas Informáticos en Red (ASIR)**.  
-Apasionado por la administración de sistemas, redes y la seguridad informática, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.
+Apasionado por la administración de sistemas, redes y la seguridad informática aprendiendo todos los días
 
 ---
 
 ## 🎓 Formación
 - **Grado Superior en Administración de Sistemas Informáticos en Red (ASIR)**  
-  📍 I.E.S. Zaidin Vergeles  
-  📅 2024 - Actualidad
+  📍 I.E.S. Zaidin Vergeles
 
 ---
 
@@ -27,5 +24,4 @@ Apasionado por la administración de sistemas, redes y la seguridad informática
 ## 📫 Contacto
 - 📧 Email: [davidhlanz@gmail.com]  
 - 🌍 Portfolio / Web personal (proximamente)  
-
 ---
