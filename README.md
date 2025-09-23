@@ -8,7 +8,7 @@ Apasionado por la administración de sistemas, redes y la seguridad informática
 
 ## 🎓 Formación
 - **Grado Superior en Administración de Sistemas Informáticos en Red (ASIR)**  
-  📍 [I.E.S. Zaidin Vergeles]  
+  📍 I.E.S. Zaidin Vergeles  
   📅 2024 - Actualidad
 
 ---
