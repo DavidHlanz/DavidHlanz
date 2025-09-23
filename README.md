@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👨‍💻 README - Estudiante de ASIR
 
-<!--
-**DavidHlanz/DavidHlanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Sobre mí
+Hola 👋, soy **David**, estudiante de segundo curso de **Administración de Sistemas Informáticos en Red (ASIR)**.  
+Apasionado por la administración de sistemas, redes y la seguridad informática, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Formación
+- **Grado Superior en Administración de Sistemas Informáticos en Red (ASIR)**  
+  📍 [I.E.S. Zaidin Vergeles]  
+  📅 2024 - Actualidad
+
+---
+
+## 🛠️ Habilidades Técnicas
+- **Sistemas Operativos**: GNU/Linux (Debian, Ubuntu y Ubuntu server), Windows Server  
+- **Virtualización**: VMware, VirtualBox, Proxmox  
+- **Redes**: Configuración de routers y switches, VLANs, Firewall, DNS, DHCP  
+- **Servicios de Red**: Active Directory, Apache, Samba, SSH  
+- **Bases de Datos**: MySQL, MariaDB, MongoDB 
+- **Scripting**: Bash, PowerShell, Python *(nivel básico)*  
+- **Contenedores**: Docker
+  
+---
+
+## 📫 Contacto
+- 📧 Email: [davidhlanz@gmail.com]  
+- 🌍 Portfolio / Web personal (proximamente)  
+
+---
